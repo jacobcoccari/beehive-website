@@ -46,4 +46,3 @@ const CTAButton = ({ children, href, onClick, className = '' }: CTAButtonProps) 
 };
 
 export default CTAButton;
-
